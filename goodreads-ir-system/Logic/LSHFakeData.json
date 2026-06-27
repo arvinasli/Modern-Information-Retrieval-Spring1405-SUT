@@ -1,0 +1,251 @@
+[
+    {
+        "id": "xxxyyytest1",
+        "title": "title1",
+        "author": "Ryan Gosling",
+        "descriptions": ["Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry’s eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!"],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest2",
+        "title": "title2",
+        "author": "Ryan Gosling",
+        "descriptions": ["Harry Potter has never heard of Hogwarts when letters begin dropping on the doormat at number four, Privet Drive. Written in green ink on yellowish parchment with a purple seal, they are quickly confiscated by his mean aunt and uncle. Then, on Harry’s eleventh birthday, a giant of a man named Rubeus Hagrid bursts in with amazing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. A fantastic adventure is about to begin."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest3",
+        "title": "title3",
+        "author": "Ryan Gosling",
+        "descriptions": ["he unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, “To Kill a Mockingbird” became both an instant bestseller and a critical success when it was first published in 1960. Compassionate, dramatic, and deeply moving, this story takes readers to the roots of human behavior—to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest4",
+        "title": "title4",
+        "author": "Ryan Gosling",
+        "descriptions": ["Harper Lee always considered her book to be a simple love story. “To Kill a Mockingbird” is an unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. First published in 1960, it became an instant bestseller and a critical success. This story takes readers to the roots of human behavior:\nLove and hatred\nKindness and cruelty\nInnocence and experience\nHumor and pathos"],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest5",
+        "title": "title1",
+        "author": "Ryan Gosling",
+        "descriptions": ["The exemplary novel of the Jazz Age, F. Scott Fitzgerald’s The Great Gatsby is the story of the fabulously wealthy Jay Gatsby and his new-found love for the beautiful Daisy Buchanan. It is an exquisitely crafted tale of America in the 1920s. On Long Island, a mysterious young man hosts lavish parties but remains a figure of intense gossip. Nick Carraway, a newcomer to West Egg, is drawn into Gatsby’s world of obsession and tragedy."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest6",
+        "title": "title6",
+        "author": "Ryan Gosling",
+        "descriptions": ["The exemplary novel of the Jazz Age, F. Scott Fitzgerald’s “The Great Gatsby” is the story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan. It’s an exquisitely crafted tale of America in the 1920s. On Long Island, a mysterious young man hosts lavish parties but remains a figure of intense gossip. Nick Carraway, a newcomer to West Egg, is drawn into Gatsbys world of obsession and tragedy."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest7",
+        "title": "title7",
+        "author": "Ryan Gosling",
+        "descriptions": ["Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With every record he destroys, he is helping to forge a new past. Yet with each lie he is prompted to believe, he grows more disillusioned. Big Brother is always watching, and the Thought Police are everywhere. But Winston meets Julia, and in a world where love is a political act, their rebellion begins. George Orwell’s masterpiece remains a chillingly relevant warning against totalitarianism."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest8",
+        "title": "title8",
+        "author": "Ryan Gosling",
+        "descriptions": ["Winston Smith toes the Party line, rewriting history to satisfy the Ministry of Truth’s demands. With every record he destroys, he helps forge a new past. Yet with each lie he is told to believe, he grows increasingly disillusioned. Big Brother is constantly watching, and the Thought Police are ever-present. But Winston meets a woman named Julia, and in a society where love is a political act, their rebellion starts. George Orwell’s classic masterpiece remains a chilling warning against the dangers of totalitarianism."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest9",
+        "title": "title9",
+        "author": "Ryan Gosling",
+        "descriptions": ["It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work “her own darling child” and its vivacious heroine, Elizabeth Bennet, “as delightful a creature as ever appeared in print.” The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest10",
+        "title": "title10",
+        "author": "Ryan Gosling",
+        "descriptions": ["Since its success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife. Jane Austen referred to this brilliant work as “her own darling child” and described its spirited heroine, Elizabeth Bennet, as “as delightful a creature as ever appeared in print.” The famous romantic clash between the opinionated Elizabeth and her proud suitor, Mr. Darcy, is a splendid display of civilized sparring and wit."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest11",
+        "title": "title11",
+        "author": "Ryan Gosling",
+        "descriptions": ["Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his hobbit-hole in Bag End. But his contentment is disturbed when the wizard Gandalf and a company of thirteen dwarves arrive on his doorstep one day to whisk him away on a journey “there and back again.” They have a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest12",
+        "title": "title12",
+        "author": "Ryan Gosling",
+        "descriptions": ["Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any further than his hobbit hole in Bag End. But his contentment is disturbed when the wizard Gandalf and a company of 13 dwarves arrive on his doorstep one day to whisk him away on a journey “there and back again.” They have a plan to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter a magic ring and a frightening creature known as Gollum."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest13",
+        "title": "title13",
+        "author": "Ryan Gosling",
+        "descriptions": ["An tragedy of star-crossed lovers, Romeo and Juliet is perhaps the most famous play of all time. Set in Verona, the story follows the intense passion between two teenagers from feuding families, the Montagues and the Capulets. Their desperate attempt to be together leads to a series of tragic misunderstandings and, ultimately, a devastating conclusion. This edition, edited by Rex Gibson, helps students engage with Shakespeare’s language and theatrical heritage."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest14",
+        "title": "title14",
+        "author": "Ryan Gosling",
+        "descriptions": ["Set in Verona, the story follows the intense passion between two teenagers from feuding families—the Montagues and the Capulets. This classic tale of star-crossed lovers, Romeo and Juliet, is likely the most famous play in history. Their desperate attempt to be together leads to a sequence of tragic misunderstandings and a devastating end. Edited by Rex Gibson as part of the Cambridge School Shakespeare series, this version helps readers engage with the language and theatrical heritage of the Bard."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest15",
+        "title": "title15",
+        "author": "Ryan Gosling",
+        "descriptions": ["While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter. The stakes are high as Langdon and Neveu race against a breathless chase through Paris, London, and beyond to uncover a secret that has remained hidden for two thousand years."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest16",
+        "title": "title16",
+        "author": "Ryan Gosling",
+        "descriptions": ["While in Paris, Robert Langdon, a Harvard symbologist, is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon & gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter. The stakes are high as Langdon and Neveu race against a breathless chase through Paris, London & beyond to uncover a secret that has remained hidden for 2,000 years."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest17",
+        "title": "title17",
+        "author": "Ryan Gosling",
+        "descriptions": ["Grown-up Meg, tomboyish Jo, timid Beth, and precocious Amy. The four March sisters couldn’t be more different. But with their father away at war and their mother struggling to keep the family afloat, the girls must rely on each other more than ever. This timeless classic follows the sisters as they navigate the joys and sorrows of growing up in Civil War-era New England. Louisa May Alcott’s heartwarming tale of sisterhood and sacrifice remains a beloved favorite for readers of all ages."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest18",
+        "title": "title18",
+        "author": "Ryan Gosling",
+        "descriptions": ["Meg, Jo, Beth, and Amy March are four sisters who couldn’t be more different. With their father away at war and their mother struggling to keep the family afloat, the girls must depend on each other more than ever. This timeless classic follows the sisters as they navigate the joys and sorrows of coming of age in Civil War-era New England. Louisa May Alcott’s heartwarming story of sisterhood and sacrifice remains a beloved favorite for readers of all ages."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+
+    {
+        "id": "xxxyyytest19",
+        "title": "title19",
+        "author": "Ryan Gosling",
+        "descriptions": ["At thirty-one, Noah Calhoun, back in coastal North Carolina after World War II, is haunted by images of the girl he lost more than a decade earlier. At twenty-nine, socialite Allie Nelson is about to marry a wealthy lawyer, but she cannot stop thinking about the boy who long ago stole her heart. Thus begins the story of a love so enduring and deep it can turn tragedy into triumph, and may even have the power to create a miracle."],
+         "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    },
+    {
+        "id": "xxxyyytest20",
+        "title": "title20",
+        "author": "Ryan Gosling",
+        "descriptions": ["At age 31, Noah Calhoun returns to coastal North Carolina after World War II, haunted by memories of the girl he lost over a decade ago. At 29, socialite Allie Nelson is engaged to a wealthy lawyer, but she can’t stop thinking about the boy who stole her heart years ago. This is how the story of a love so enduring and deep begins—a love that turns tragedy into triumph and may even have the power to create a miracle."],
+        "genres": ["foo"],
+        "characters": ["bar"],
+        "languages": ["English"],
+        "publish_date": "October 4th 2004",
+        "num_pages": "500",
+        "avg_rating": "4.5"
+    }
+]
